@@ -1,0 +1,6 @@
+framework module Pods_In_AppMessaging {
+  umbrella header "Pods-In-AppMessaging-umbrella.h"
+
+  export *
+  module * { export * }
+}
